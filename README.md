@@ -1,0 +1,1 @@
+# File of test for Azure CI/CD
